@@ -1,0 +1,12 @@
+/* styles */
+
+.unordered {
+    color: white;
+    background-color: thistle;
+}
+
+.heading {
+    font-family: Impact, sans-serif;
+    font-size: 24px;
+    color: yellowgreen;
+}
